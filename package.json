@@ -1,0 +1,12 @@
+{
+  "name": "earnapp-stealth-gateway",
+  "version": "1.0.0",
+  "description": "High-Performance Stealth Reverse Proxy Gateway for EarnApp",
+  "main": "api/[...path].js",
+  "scripts": {
+    "start": "node api/[...path].js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
